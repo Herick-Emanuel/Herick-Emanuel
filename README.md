@@ -1,7 +1,6 @@
 ### Bem vindo ao perfil de Herick Emanuel!
 
-- 🔭 Atualmente estou trabalhando na FlipCRM
-- 🌱 Atualmente estou aprendendo React, Feathers, e seguindo os principios básicos do html e css
+- 🌱 Atualmente estou aprendendo React, Feathers, e seguindo os principios básicos do html e css, Arranhando Flutter também, mas a nível mais profissional com todas estas ferramentas!
 - ⚡ Fun fact: procurando a linguagem perfeita
 
 ### LINGUAGENS E TECNOLOGIAS QUE UTILIZO NO DIA A DIA
