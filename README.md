@@ -1,6 +1,6 @@
 ### Bem vindo ao perfil de Herick Emanuel!
 
-- 🌱 Conhecimento em React, Feathers, Node, Express, e seguindo os principios básicos do html e css, Arranhando Flutter também, mas a nível mais profissional com todas estas ferramentas!
+- 🌱 Conhecimento em React, Feathers, Node, Express, e seguindo os principios básicos do html e css, com conhecimento em Flutter também, a nível profissional com todas estas ferramentas!
 - ⚡ Fun fact: Conheço muito mais do front-end do que do back em si, se pudesse me manteria somente com o front
 
 ### LINGUAGENS E TECNOLOGIAS QUE UTILIZO NO DIA A DIA
