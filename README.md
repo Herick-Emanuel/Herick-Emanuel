@@ -1,40 +1,98 @@
-### 🚀 Bem-vindo ao perfil de Herick Emanuel!
+<div align="center">
 
-- 🎨 **Front-end Enthusiast**: Especialista em criar interfaces modernas com **React**, **Next.js** e **Flutter**. 
-- ⚙️ **Fullstack Developer**: Domínio completo do ecossistema JavaScript/TypeScript, construindo APIs escaláveis com **NestJS**, **Node**, **Express** e **Feathers**.
-- 🗄️ **Data & DX**: Experiência com modelagem de dados usando **Prisma** e **PostgreSQL**.
-- ⚡ **Fun fact**: O desenvolvedor full-stack
----
+# 👋 Olá, eu sou Herick Emanuel
 
-### 🛠️ LINGUAGENS E TECNOLOGIAS QUE UTILIZO NO DIA A DIA
+### 🚀 Fullstack Developer | 🎨 Frontend Lover | ⚡ Builder
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<br/><br/>
-
-<img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br/><br/>
-
-<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
-<img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Flutter;NestJS+%7C+Node+%7C+TypeScript;Building+cool+things+on+the+web" />
 
 </div>
 
 ---
 
-### 📫 Minhas redes:
+# 🚀 Sobre mim
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+💻 Desenvolvedor **Fullstack** apaixonado por criar experiências modernas.
+
+- 🎨 Interfaces modernas com **React**, **Next.js** e **Flutter**
+- ⚙️ APIs escaláveis com **NestJS**, **Node.js** e **Express**
+- 🗄️ Modelagem de dados com **Prisma** e **PostgreSQL**
+- 🚀 Foco em **arquitetura limpa, escalabilidade e DX**
+
+---
+
+# 🧰 Tech Stack
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js" />
+
+---
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" />
+
+---
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
+
+---
+
+## ⚡ DevOps / Infra
+
+<img src="https://skillicons.dev/icons?i=docker,rabbitmq" />
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Herick-Emanuel&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herick-Emanuel&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Commit Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Herick-Emanuel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Herick-Emanuel&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+⭐ **Sempre aberto para colaborar em projetos interessantes!**
