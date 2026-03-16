@@ -1,26 +1,40 @@
-### Bem vindo ao perfil de Herick Emanuel!
+### 🚀 Bem-vindo ao perfil de Herick Emanuel!
 
-- 🌱 Conhecimento em React, Feathers, Node, Express, e seguindo os principios básicos do html e css, com conhecimento em Flutter também, a nível profissional com todas estas ferramentas!
-- ⚡ Fun fact: Conheço muito mais do front-end do que do back em si, se pudesse me manteria somente com o front
+- 🎨 **Front-end Enthusiast**: Especialista em criar interfaces modernas com **React**, **Next.js** e **Flutter**. 
+- ⚙️ **Fullstack Developer**: Domínio completo do ecossistema JavaScript/TypeScript, construindo APIs escaláveis com **NestJS**, **Node**, **Express** e **Feathers**.
+- 🗄️ **Data & DX**: Experiência com modelagem de dados usando **Prisma** e **PostgreSQL**.
+- ⚡ **Fun fact**: O desenvolvedor full-stack
+---
 
-### LINGUAGENS E TECNOLOGIAS QUE UTILIZO NO DIA A DIA
-  
-  <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nextjs" src="https://img.shields.io" />
-  <img align="center" alt="nestjs" src="https://img.shields.io" />
-  <img align="center" alt="express" src="https://img.shields.io" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="prisma" src="https://img.shields.io" />
-  <img align="center" alt="postgres" src="https://img.shields.io" />
-  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div><br/>
+### 🛠️ LINGUAGENS E TECNOLOGIAS QUE UTILIZO NO DIA A DIA
 
-### Minhas redes:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heri.c.k/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-antunes-142ba224b/)
+<div style="display: inline_block"><br>
+
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="center" alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+<img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
+<img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+</div>
+
+---
+
+### 📫 Minhas redes:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
